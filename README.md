@@ -1,3 +1,7 @@
+This is project it will ask for a number in the input.
+Then it will create a function and tell you if it is a prime or not a prime number. 
+
+
 ## Prime Numbers
 
 # UPDATE
